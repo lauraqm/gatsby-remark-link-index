@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-remark-link-index",
+  "description": "",
+  "version": "2.3.12",
+  "author": "Laura Quesada M <lauraqmpz@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "dependencies": {
+    "gatsby-source-filesystem": "^2.3.24",
+    "gatsby-transformer-remark": "^2.8.28",
+    "mdast-util-to-string": "^1.1.0",
+    "unist-util-visit": "^2.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "prismjs",
+    "remark"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "r"
+  },
+  "scripts": {
+    "build": "dd"
+  }
+}
